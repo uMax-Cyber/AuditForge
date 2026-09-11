@@ -1,4 +1,5 @@
 # Security Audit Automation
+[![CI](https://github.com/uMax-Cyber/AuditForge/actions/workflows/ci.yml/badge.svg)](https://github.com/uMax-Cyber/AuditForge/actions/workflows/ci.yml)
 
 Weekly automated security audit for small infrastructure: SSH brute-force detection, package update tracking, network device state, backup freshness, and port change detection. Pure Python, stdlib only, outputs to any messaging channel.
 
